@@ -1,0 +1,13 @@
+{
+  "name": "painter_decorator_lab",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha models/specs"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^7.1.1"
+  }
+}
